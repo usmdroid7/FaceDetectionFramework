@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FaceDetection'
-  s.version          = '1.0.1'
+  s.version          = '1.0.3'
   s.summary          = 'Prebuilt FaceDetection XCFramework'
   s.description      = 'My prebuilt FaceDetection XCFramework for Flutter plugin'
   s.homepage         = 'https://github.com/usmdroid7/FaceDetectionFramework'
