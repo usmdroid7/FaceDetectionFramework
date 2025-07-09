@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'YuzIDSDK'
+  s.name             = 'FaceDetection'
   s.version          = '1.0.0'
   s.summary          = 'Prebuilt FaceDetection XCFramework'
   s.description      = 'My prebuilt FaceDetection XCFramework for Flutter plugin'
