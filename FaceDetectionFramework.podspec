@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'FaceDetectionFramework'
+  s.name             = 'YuzIDSDK'
   s.version          = '1.0.0'
   s.summary          = 'Prebuilt FaceDetection XCFramework'
   s.description      = 'My prebuilt FaceDetection XCFramework for Flutter plugin'
@@ -9,6 +9,8 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/usmdroid7/FaceDetectionFramework.git', :tag => s.version.to_s }
 
   s.vendored_frameworks = 'FaceDetection.xcframework'
+  s.dependency 'GoogleMLKit/FaceDetection'
+
   s.platform     = :ios, '13.0'
   s.swift_version = '5.0'
 end
