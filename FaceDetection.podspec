@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FaceDetection'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Prebuilt FaceDetection XCFramework'
   s.description      = 'My prebuilt FaceDetection XCFramework for Flutter plugin'
   s.homepage         = 'https://github.com/usmdroid7/FaceDetectionFramework'
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'FaceDetection.xcframework'
   s.dependency 'GoogleMLKit/FaceDetection'
 
-  s.platform     = :ios, '13.0'
+  s.platform         = :ios, '13.0'
   s.swift_version = '5.0'
 end
