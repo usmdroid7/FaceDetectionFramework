@@ -13,4 +13,4 @@ This repository contains the `FaceDetection.xcframework` packaged for iOS.
 Add this framework to your Podfile like this:
 
 ```ruby
-pod 'FaceDetectionFramework', :git => 'https://github.com/usmdroid7/FaceDetectionFramework.git', :tag => '1.0.0'
+pod 'FaceDetectionFramework', :git => 'https://github.com/usmdroid7/FaceDetectionFramework.git', :tag => 'latest'

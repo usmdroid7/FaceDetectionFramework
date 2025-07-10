@@ -4,13 +4,36 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FaceDetection.h</key>
+		<data>
+		isl9M1dhAHTikNYBYw7/cA3nwF8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		czwq25ZmXRdPML4FjZO+Isfy4Vw=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		mfog09X2uzLTe4ExYUNuVu+oeAk=
+		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Headers/FaceDetection.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8A4ssddcpxwVcSYr58ohe8h4JjA4Pwbwhh/pBEXZczQ=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8l3N0SiO66HFGW2nqPVVHHoxPt+lAfF0AF0IcusuaEg=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>

@@ -1,0 +1,6 @@
+framework module FaceDetection {
+  umbrella header "FaceDetection.h"
+  export *
+
+  module * { export * }
+}
